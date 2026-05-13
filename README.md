@@ -1,2 +1,2 @@
 # Programming_DA_AI
-uni module 
+stroke prediction model 
